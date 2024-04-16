@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name:Clifford
 
-3. Enter your favourite animal:lion
+3. Enter your favourite animal:lion and zebra
 
 4. Now click the green 'commit changes' button at the bottom.
 
